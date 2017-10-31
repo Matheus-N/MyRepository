@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1496857211 source:c:\users\tamara.baldo\desktop\matriz_esparsa\main.c
+	"matriz_esparsa.h"
+
+1496252996 c:\users\tamara.baldo\desktop\matriz_esparsa\matriz_esparsa.h
+
+1496857533 source:c:\users\tamara.baldo\desktop\matriz_esparsa\matriz_esparsa.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"matriz_esparsa.h"
+
